@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "adaptive.js",
+        "scope": null,
+        "escapedName": "adaptive.js",
+        "name": "adaptive.js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Administrator\\Desktop\\课程练习\\13 第十三周\\2017-2-28\\HuaRun"
+    ]
+  ],
+  "_from": "adaptive.js@latest",
+  "_id": "adaptive.js@0.0.1",
+  "_inCache": true,
+  "_location": "/adaptive.js",
+  "_nodeVersion": "4.4.7",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/adaptive.js-0.0.1.tgz_1478848168570_0.0783502550330013"
+  },
+  "_npmUser": {
+    "name": "zhoushengmufc",
+    "email": "815918537@qq.com"
+  },
+  "_npmVersion": "2.15.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "adaptive.js",
+    "scope": null,
+    "escapedName": "adaptive.js",
+    "name": "adaptive.js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/adaptive.js/-/adaptive.js-0.0.1.tgz",
+  "_shasum": "a41da2e5ab6c79ae5b170d2d6b0422aad5541296",
+  "_shrinkwrap": null,
+  "_spec": "adaptive.js",
+  "_where": "C:\\Users\\Administrator\\Desktop\\课程练习\\13 第十三周\\2017-2-28\\HuaRun",
+  "author": {
+    "name": "zhoushengmufc"
+  },
+  "bugs": {
+    "url": "https://github.com/finance-sh/adaptive/issues"
+  },
+  "dependencies": {},
+  "description": "web self-adaption",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a41da2e5ab6c79ae5b170d2d6b0422aad5541296",
+    "tarball": "https://registry.npmjs.org/adaptive.js/-/adaptive.js-0.0.1.tgz"
+  },
+  "gitHead": "ea565a3a2abfc4fffd6ce00ae98da0b970cfa822",
+  "homepage": "https://github.com/finance-sh/adaptive#readme",
+  "keywords": [
+    "web",
+    "adaptive"
+  ],
+  "license": "ISC",
+  "main": "js/adaptive.js",
+  "maintainers": [
+    {
+      "name": "zhoushengmufc",
+      "email": "815918537@qq.com"
+    }
+  ],
+  "name": "adaptive.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finance-sh/adaptive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
